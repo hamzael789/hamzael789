@@ -23,7 +23,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ### Outils
 
